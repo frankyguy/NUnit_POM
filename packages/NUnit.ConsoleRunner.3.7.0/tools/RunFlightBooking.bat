@@ -1,0 +1,1 @@
+nunit3-console.exe ..\..\..\Flight_Booking\bin\Debug\Flight_Booking.dll --where:cat=BookaFlight --result=C:\FlightBook\FlightBook.Tests.xml
